@@ -20,15 +20,6 @@ Welcome to the **Parts of Speech Learning Page**! This project is designed to he
 Feel free to **share this page** with teachers, parents, and young learners!  
 You can also **fork this repository** to add your own twists or local language examples.
 
-## Getting the Project Online
-
-To publish this page for free, go to **Settings** > **GitHub Pages** and select the `main` branch.  
-Your site will be live at: `https://username.github.io/repository-name`
-
-## Contribute
-
-If you have ideas for making this even better, you’re welcome to **open an issue** or **submit a pull request**!
-
 ---
 
 **Happy learning!**
