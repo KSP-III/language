@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Fun with Parts of Speech!</title>
+  <style>
+    body { font-family: Arial, sans-serif; background:#f0f8ff; margin: 0; padding: 20px; }
+    h1 { color: #2d7ff9; }
+    h2 { color: #26547c; }
+    img { max-width: 220px; display:block; margin:16px 0; }
+    table { border-collapse: collapse; margin-top: 15px;}
+    th, td { border: 1px solid #8ecae6; padding: 8px 12px; text-align: center;}
+    th { background:#d9f2fa;}
+  </style>
+</head>
+<body>
+  <h1>Fun with Parts of Speech!</h1>
+  <p>Learn the 8 parts of speech with easy examples and illustrations.</p>
+  
+  <h2>What Are Parts of Speech?</h2>
+  <p>Parts of speech are categories for words, depending on how they're used in sentences.</p>
+
+  <h2>1. Nouns</h2>
+  <p>Nouns name people, animals, places, or things.<br>
+  <b>Examples:</b> girl, dog, school, ball</p>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Playing_ball_with_dog_-_3d_vector.svg/800px-Playing_ball_with_dog_-_3d_vector.svg.png" alt="A girl playing with a ball">
+  
+  <h2>2. Pronouns</h2>
+  <p>Pronouns replace nouns.<br>
+  <b>Examples:</b> he, she, it, they, we</p>
+  <img src="https://cdn.pixabay.com/photo/2017/03/13/13/41/children-2134380_1280.png" alt="Children pronouns">
+
+  <h2>3. Verbs</h2>
+  <p>Verbs show action or a state of being.<br>
+  <b>Examples:</b> run, jump, is</p>
+  <img src="https://cdn.pixabay.com/photo/2016/03/31/22/09/child-1295441_1280.png" alt="Child jumping">
+
+  <h2>4. Adjectives</h2>
+  <p>Adjectives describe nouns.<br>
+  <b>Examples:</b> happy, red, big</p>
+  <p><i>The big, red ball.</i></p>
+
+  <h2>5. Adverbs</h2>
+  <p>Adverbs describe verbs. They often end in <b>-ly</b>.<br>
+  <b>Examples:</b> quickly, softly</p>
+  <p><i>The dog runs quickly.</i></p>
+
+  <h2>6. Prepositions</h2>
+  <p>Prepositions show the relationship of a noun or pronoun to another word.<br>
+  <b>Examples:</b> in, on, under</p>
+  <p><i>The cat is under the table.</i></p>
+  
+  <h2>7. Conjunctions</h2>
+  <p>Conjunctions join words or groups of words.<br>
+  <b>Examples:</b> and, but, or</p>
+  <p><i>I like apples and bananas.</i></p>
+  
+  <h2>8. Interjections</h2>
+  <p>Interjections show strong feeling.<br>
+  <b>Examples:</b> Wow! Oh!</p>
+  <p><i>Yay! We won!</i></p>
+
+  <h2>Review Table</h2>
+  <table>
+    <tr>
+      <th>Part of Speech</th>
+      <th>What it Does</th>
+      <th>Example</th>
+    </tr>
+    <tr><td>Noun</td><td>Names a person/place/thing</td><td>dog</td></tr>
+    <tr><td>Pronoun</td><td>Replaces a noun</td><td>she</td></tr>
+    <tr><td>Verb</td><td>Shows action/state</td><td>runs</td></tr>
+    <tr><td>Adjective</td><td>Describes a noun</td><td>happy</td></tr>
+    <tr><td>Adverb</td><td>Describes a verb</td><td>quickly</td></tr>
+    <tr><td>Preposition</td><td>Shows relationship</td><td>in, on</td></tr>
+    <tr><td>Conjunction</td><td>Joins words/phrases</td><td>and, but</td></tr>
+    <tr><td>Interjection</td><td>Shows feeling</td><td>wow!</td></tr>
+  </table>
+
+  <h2>Practice!</h2>
+  <p>Try finding the parts of speech in: <br> <b>The happy dog runs quickly and jumps over the fence.</b></p>
+  <ul>
+    <li>Nouns: dog, fence</li>
+    <li>Adjective: happy</li>
+    <li>Verbs: runs, jumps</li>
+    <li>Adverb: quickly</li>
+    <li>Conjunction: and</li>
+    <li>Preposition: over</li>
+  </ul>
+</body>
+</html>
